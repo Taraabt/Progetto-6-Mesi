@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content/gltf/M_Default.uasset",
+				"C:/Users/alber/OneDrive/Desktop/Vari Gamelab/Secondo Anno/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Player/BP_Character.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"C:/Users/alber/OneDrive/Desktop/Vari Gamelab/Progetto-6-Mesi/Gamelab6Mesi/Content/Unreal/FirstPersonArms/Animations/FP_Land.uasset",
 				"C:/Users/alber/OneDrive/Desktop/Vari Gamelab/Progetto-6-Mesi/Gamelab6Mesi/Content/Unreal/FirstPersonArms/Animations/FP_Jump.uasset",
 				"C:/Users/alber/OneDrive/Desktop/Vari Gamelab/Progetto-6-Mesi/Gamelab6Mesi/Content/Unreal/FirstPersonArms/Animations/FP_Idle.uasset",
