@@ -8267,3 +8267,1329 @@ Script Stack (0 frames) :
 [2025.07.03-14.27.26:175][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 26.6 sec)
 [2025.07.03-14.27.26:178][ 39]AssetCheck: New page: Asset Save: BP_TriggerTower
 [2025.07.03-14.27.26:178][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-14.44.27:872][232]LogDerivedDataCache: C:/Users/alber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.670 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12669 files in 15081 folders with total size 1407 MiB.
+[2025.07.03-14.50.32:075][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-14.50.32:227][203]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-14.50.32:228][203]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerF6EB47EA43CD38D3B5CEDF9C5911FC51.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-14.50.32:242][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 26.8 sec)
+[2025.07.03-14.50.32:243][203]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-14.50.32:243][203]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-14.50.40:515][656]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-14.50.40:616][656]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2025.07.03-14.51.06:069][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.07.03-14.51.06:074][762]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/AlienTower' took 0.022
+[2025.07.03-14.51.06:076][762]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Object/BP_TriggerTower] ([2] browsable assets)...
+[2025.07.03-14.51.06:099][762]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower]
+[2025.07.03-14.51.06:099][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Object/BP_TriggerTower]
+[2025.07.03-14.51.06:109][762]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/Object/BP_TriggerTower_Auto0
+[2025.07.03-14.51.06:110][762]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower_Auto0824B1246461774ADAC645381A84BCB55.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/Autosaves/Game/Blueprint/Object/BP_TriggerTower_Auto0.uasset'
+[2025.07.03-14.51.06:110][762]LogFileHelpers: Auto-saving content packages took 0.037
+[2025.07.03-15.16.27:739][589]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.16.27:799][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.07.03-15.16.41:036][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.16.41:179][365]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.16.41:180][365]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower4BDB17EB47A1390A05E123B6FA35B2DB.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.16.41:193][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 27.0 sec)
+[2025.07.03-15.16.41:195][365]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.16.41:195][365]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.16.41:904][407]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.16.41:954][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.07.03-15.23.43:619][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.23.43:763][634]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.23.43:765][634]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower550234764249EA4E15997D923FC99F9A.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.23.43:776][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 27.1 sec)
+[2025.07.03-15.23.43:778][634]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.23.43:778][634]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.23.44:676][684]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.23.44:717][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.07.03-15.23.55:409][278]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.23.55:415][278]LogClass: Warning: Type mismatch in SpawnPoint of BP_TriggerTower_C - Previous (IntProperty) Current(ArrayProperty) for package:  FObjectReader
+[2025.07.03-15.23.55:447][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.07.03-15.24.38:640][805]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.24.38:679][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.07.03-15.24.46:685][260]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.24.46:722][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.07.03-15.26.00:277][596]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.26.00:315][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.07.03-15.26.06:549][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.26.06:658][961]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.26.06:659][961]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerE9DDFDE441A5D1A4C32B1A9E9BDF38A2.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.26.06:670][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 27.2 sec)
+[2025.07.03-15.26.06:671][961]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.26.06:671][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.26.35:155][619]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.26.35:194][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.07.03-15.26.39:145][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.26.39:274][848]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.26.39:275][848]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerD95EFC5F4474B9F240603A9980441CC0.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.26.39:287][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 27.4 sec)
+[2025.07.03-15.26.39:289][848]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.26.39:289][848]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.26.42:711][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.26.42:843][ 49]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.26.42:844][ 49]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower2D52B31949766A50799A3682E2087227.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.26.42:856][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 27.5 sec)
+[2025.07.03-15.26.42:857][ 49]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.26.42:857][ 49]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.26.55:880][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.26.56:011][803]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.26.56:012][803]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower9708830C42E357C6130F51A33C8BFC0D.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.26.56:024][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 27.7 sec)
+[2025.07.03-15.26.56:025][803]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.26.56:025][803]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.26.56:831][850]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.26.56:869][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.07.03-15.42.05:429][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.42.05:566][284]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.42.05:567][284]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower6D436E704013B572A2E89F8E919E94EF.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.42.05:579][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 27.8 sec)
+[2025.07.03-15.42.05:581][284]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.42.05:581][284]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.42.22:272][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.42.22:398][208]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.42.22:399][208]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerB133BCA34387AC664445E695756C81A8.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.42.22:411][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 28.0 sec)
+[2025.07.03-15.42.22:412][208]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.42.22:412][208]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.43.05:430][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.43.05:559][349]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.43.05:561][349]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower43ED2D7642DD124778464E818E0471B2.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.43.05:572][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 28.1 sec)
+[2025.07.03-15.43.05:574][349]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.43.05:574][349]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.43.17:391][ 53]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.43.17:445][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.07.03-15.43.26:605][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.43.26:711][479]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.43.26:712][479]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower8B20924246AE704DB35C8088280BFA85.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.43.26:725][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 28.2 sec)
+[2025.07.03-15.43.26:726][479]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.43.26:726][479]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.43.27:681][536]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.43.27:723][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.07.03-15.43.40:364][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.43.40:503][282]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.43.40:504][282]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower3E99FD6444A750769A858796F1DD42E9.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.43.40:514][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 28.4 sec)
+[2025.07.03-15.43.40:516][282]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.43.40:516][282]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.43.46:327][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.43.46:455][630]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.43.46:456][630]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower92713C554A7312F0C216109A4E834D02.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.43.46:467][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 28.5 sec)
+[2025.07.03-15.43.46:468][630]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.43.46:468][630]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.43.47:483][690]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.43.47:523][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.07.03-15.44.00:755][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.44.00:897][473]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.44.00:898][473]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower3807DC204FAE9F2CFB77A2989C29CC0B.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.44.00:909][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 28.7 sec)
+[2025.07.03-15.44.00:911][473]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.44.00:911][473]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.44.02:076][542]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.44.02:119][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.07.03-15.44.09:066][940]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-15.44.09:083][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-15.44.09:084][940]PIE: New page: PIE session: AlienTower (3 lug 2025, 19:44:09)
+[2025.07.03-15.44.09:087][940]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.44.09:118][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030990s)
+[2025.07.03-15.44.09:118][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.031333s)
+[2025.07.03-15.44.09:134][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.07.03-15.44.09:139][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-15.44.09:139][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-15.44.09:141][940]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-15.44.09:141][940]LogPlayLevel: PIE: World Init took: (0.003336s)
+[2025.07.03-15.44.09:141][940]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2025.07.03-15.44.09:142][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-15.44.09:142][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-15.44.09:142][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-15.44.09:142][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-15.44.09:142][940]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-15.44.09:143][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-15.44.09:143][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-15.44.09:143][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-15.44.09:144][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-15.44.09:144][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-15.44.09:144][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-15.44.09:147][940]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-15.44.09:222][940]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-15.44.09:223][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-15.44.09:223][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-15.44.09:223][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-15.44.09:224][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2025.07.03-15.44.09:224][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2025.07.03-15.44.09:226][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2025.07.03-15.44.09:226][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2025.07.03-15.44.09:226][940]LogInit: FAudioDevice initialized with ID 67.
+[2025.07.03-15.44.09:226][940]LogAudio: Display: Audio Device (ID: 67) registered with world 'AlienTower'.
+[2025.07.03-15.44.09:226][940]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2025.07.03-15.44.09:238][940]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-15.44.09:251][940]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-17.44.09
+[2025.07.03-15.44.09:252][940]LogWorld: Bringing up level for play took: 0.013522
+[2025.07.03-15.44.09:255][940]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2025.07.03-15.44.09:352][940]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-15.44.09:354][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.44.09:354][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.44.09:357][940]PIE: Server logged in
+[2025.07.03-15.44.09:358][940]PIE: Play in editor total start time 0,277 seconds.
+[2025.07.03-15.44.10:593][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.44.10:593][998]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.44.10:595][998]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-15.44.10:598][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.44.10:633][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-15.44.10:639][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.44.10:657][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.03-15.44.10:657][998]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2025.07.03-15.44.10:658][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.07.03-15.44.10:660][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.07.03-15.44.10:669][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.44.10:684][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.07.03-15.44.10:952][999]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2025.07.03-15.44.11:974][ 54]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-15.44.11:984][ 54]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-15.44.27:586][978]LogDerivedDataCache: C:/Users/alber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.384 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12669 files in 15081 folders with total size 1407 MiB.
+[2025.07.03-15.45.17:090][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.45.17:263][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.07.03-15.45.17:391][337]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-15.45.17:392][337]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTowerABC121944229D0C76DEBDDA1B2FF01DB.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-15.45.17:407][337]LogFileHelpers: Saving map 'AlienTower' took 0.198
+[2025.07.03-15.45.17:422][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 331 ms (total: 29.0 sec)
+[2025.07.03-15.45.17:424][337]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-15.45.17:425][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-15.45.32:216][196]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.45.32:259][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2025.07.03-15.45.43:212][830]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.45.43:254][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.07.03-15.45.48:901][154]Cmd: TRANSACTION UNDO
+[2025.07.03-15.45.48:901][154]LogEditorTransaction: Undo Move Elements
+[2025.07.03-15.45.51:063][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.45.51:214][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.07.03-15.45.51:314][266]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-15.45.51:315][266]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTower594396C14940D3B22D021B875BEB550F.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-15.45.51:325][266]LogFileHelpers: Saving map 'AlienTower' took 0.168
+[2025.07.03-15.45.51:339][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 29.3 sec)
+[2025.07.03-15.45.51:341][266]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-15.45.51:341][266]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-15.45.54:791][472]Cmd: TRANSACTION UNDO
+[2025.07.03-15.45.54:791][472]LogEditorTransaction: Undo Move Elements
+[2025.07.03-15.46.04:756][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.46.04:889][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.07.03-15.46.04:986][ 36]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-15.46.04:986][ 36]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTower460009CE475C8EC7FA994EA68BE8E686.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-15.46.04:997][ 36]LogFileHelpers: Saving map 'AlienTower' took 0.158
+[2025.07.03-15.46.05:011][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 29.5 sec)
+[2025.07.03-15.46.05:014][ 36]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-15.46.05:014][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-15.46.10:469][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.46.10:614][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.07.03-15.46.10:734][360]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-15.46.10:735][360]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTower5E8AEB0A42AF133FB9D48EA586F92736.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-15.46.10:747][360]LogFileHelpers: Saving map 'AlienTower' took 0.190
+[2025.07.03-15.46.10:764][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 294 ms (total: 29.8 sec)
+[2025.07.03-15.46.10:767][360]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-15.46.10:767][360]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-15.46.25:913][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.46.26:051][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.07.03-15.46.26:145][260]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-15.46.26:145][260]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTowerF364EC2F450F8EB896E40AB9926A852E.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-15.46.26:156][260]LogFileHelpers: Saving map 'AlienTower' took 0.155
+[2025.07.03-15.46.26:167][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 30.1 sec)
+[2025.07.03-15.46.26:169][260]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-15.46.26:169][260]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-15.46.31:236][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.46.31:348][558]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.46.31:349][558]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerF2FB51B54C1C6DE2B9DF10861BCBDAA5.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.46.31:362][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 30.2 sec)
+[2025.07.03-15.46.31:364][558]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.46.31:364][558]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.46.38:435][975]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.46.38:479][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.07.03-15.46.39:183][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.46.39:304][  8]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.46.39:305][  8]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerE1AB0AE4407A52640D6108844A7277E6.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.46.39:317][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 30.3 sec)
+[2025.07.03-15.46.39:318][  8]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.46.39:318][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.46.53:406][830]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.46.53:449][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.07.03-15.46.55:196][920]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-15.46.55:208][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-15.46.55:208][920]PIE: New page: PIE session: AlienTower (3 lug 2025, 19:46:55)
+[2025.07.03-15.46.55:252][920]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.46.55:266][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014199s)
+[2025.07.03-15.46.55:266][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.014262s)
+[2025.07.03-15.46.55:282][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.07.03-15.46.55:286][920]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-15.46.55:286][920]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-15.46.55:286][920]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-15.46.55:287][920]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2025.07.03-15.46.55:287][920]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2025.07.03-15.46.55:287][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-15.46.55:287][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-15.46.55:287][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-15.46.55:287][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-15.46.55:287][920]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-15.46.55:287][920]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-15.46.55:287][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-15.46.55:287][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-15.46.55:288][920]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-15.46.55:288][920]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-15.46.55:288][920]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-15.46.55:290][920]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-15.46.55:366][920]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-15.46.55:366][920]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-15.46.55:366][920]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-15.46.55:366][920]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-15.46.55:367][920]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2025.07.03-15.46.55:367][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2025.07.03-15.46.55:369][920]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2025.07.03-15.46.55:369][920]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2025.07.03-15.46.55:369][920]LogInit: FAudioDevice initialized with ID 68.
+[2025.07.03-15.46.55:369][920]LogAudio: Display: Audio Device (ID: 68) registered with world 'AlienTower'.
+[2025.07.03-15.46.55:369][920]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2025.07.03-15.46.55:372][920]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-15.46.55:383][920]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-17.46.55
+[2025.07.03-15.46.55:384][920]LogWorld: Bringing up level for play took: 0.011430
+[2025.07.03-15.46.55:387][920]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2025.07.03-15.46.55:418][920]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-15.46.55:419][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.46.55:419][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.46.55:420][920]PIE: Server logged in
+[2025.07.03-15.46.55:421][920]PIE: Play in editor total start time 0,213 seconds.
+[2025.07.03-15.47.04:928][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.04:928][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.04:928][488]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.07.03-15.47.04:928][488]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.04:929][488]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.07:012][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.47.07:012][611]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.47.07:013][611]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-15.47.07:015][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.47.07:051][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-15.47.07:055][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.47.07:070][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.47.07:070][611]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2025.07.03-15.47.07:070][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.07.03-15.47.07:072][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.07.03-15.47.07:092][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.07.03-15.47.07:362][612]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2025.07.03-15.47.08:507][675]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-15.47.08:515][675]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-15.47.16:610][888]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-15.47.16:623][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-15.47.16:623][888]PIE: New page: PIE session: AlienTower (3 lug 2025, 19:47:16)
+[2025.07.03-15.47.16:627][888]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.47.16:645][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018767s)
+[2025.07.03-15.47.16:645][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.018823s)
+[2025.07.03-15.47.16:664][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.07.03-15.47.16:667][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-15.47.16:668][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-15.47.16:668][888]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-15.47.16:669][888]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2025.07.03-15.47.16:669][888]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2025.07.03-15.47.16:669][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-15.47.16:669][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-15.47.16:669][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-15.47.16:669][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-15.47.16:669][888]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-15.47.16:669][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-15.47.16:669][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-15.47.16:669][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-15.47.16:670][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-15.47.16:670][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-15.47.16:670][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-15.47.16:674][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-15.47.16:764][888]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-15.47.16:765][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-15.47.16:765][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-15.47.16:765][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-15.47.16:765][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2025.07.03-15.47.16:765][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2025.07.03-15.47.16:768][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2025.07.03-15.47.16:768][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2025.07.03-15.47.16:768][888]LogInit: FAudioDevice initialized with ID 69.
+[2025.07.03-15.47.16:768][888]LogAudio: Display: Audio Device (ID: 69) registered with world 'AlienTower'.
+[2025.07.03-15.47.16:768][888]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2025.07.03-15.47.16:770][888]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-15.47.16:784][888]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-17.47.16
+[2025.07.03-15.47.16:786][888]LogWorld: Bringing up level for play took: 0.013670
+[2025.07.03-15.47.16:789][888]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2025.07.03-15.47.16:828][888]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-15.47.16:828][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.47.16:829][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.47.16:829][888]PIE: Server logged in
+[2025.07.03-15.47.16:830][888]PIE: Play in editor total start time 0,207 seconds.
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.27:521][525]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.07.03-15.47.27:521][525]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.27:521][525]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.30:613][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.47.30:613][708]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.47.30:614][708]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-15.47.30:617][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.47.30:623][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-15.47.30:628][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.47.30:648][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.47.30:649][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2025.07.03-15.47.30:649][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.07.03-15.47.30:651][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.07.03-15.47.30:671][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.07.03-15.47.30:935][709]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2025.07.03-15.47.32:271][782]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-15.47.32:289][782]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-15.47.41:412][310]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-15.47.41:425][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-15.47.41:425][310]PIE: New page: PIE session: AlienTower (3 lug 2025, 19:47:41)
+[2025.07.03-15.47.41:431][310]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.47.41:449][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018221s)
+[2025.07.03-15.47.41:449][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.018284s)
+[2025.07.03-15.47.41:466][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.07.03-15.47.41:469][310]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-15.47.41:469][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-15.47.41:470][310]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-15.47.41:472][310]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2025.07.03-15.47.41:472][310]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2025.07.03-15.47.41:472][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-15.47.41:472][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-15.47.41:472][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-15.47.41:472][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-15.47.41:472][310]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-15.47.41:472][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-15.47.41:472][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-15.47.41:472][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-15.47.41:473][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-15.47.41:473][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-15.47.41:473][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-15.47.41:476][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-15.47.41:557][310]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-15.47.41:558][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-15.47.41:558][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-15.47.41:558][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-15.47.41:558][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2025.07.03-15.47.41:558][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2025.07.03-15.47.41:561][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2025.07.03-15.47.41:561][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2025.07.03-15.47.41:561][310]LogInit: FAudioDevice initialized with ID 70.
+[2025.07.03-15.47.41:561][310]LogAudio: Display: Audio Device (ID: 70) registered with world 'AlienTower'.
+[2025.07.03-15.47.41:561][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2025.07.03-15.47.41:564][310]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-15.47.41:576][310]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-17.47.41
+[2025.07.03-15.47.41:577][310]LogWorld: Bringing up level for play took: 0.012938
+[2025.07.03-15.47.41:581][310]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2025.07.03-15.47.41:616][310]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-15.47.41:617][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.47.41:617][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.47.41:619][310]PIE: Server logged in
+[2025.07.03-15.47.41:619][310]PIE: Play in editor total start time 0,195 seconds.
+[2025.07.03-15.47.53:092][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.53:092][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.53:092][995]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.07.03-15.47.53:092][995]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.07.03-15.47.53:092][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.53:092][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.53:092][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.53:093][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.53:093][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.53:093][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.53:093][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.47.53:093][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.53:093][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.47.53:093][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.48.13:492][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.48.13:492][179]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.48.13:496][179]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-15.48.13:498][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.48.13:540][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-15.48.13:546][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.48.13:561][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.48.13:561][179]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2025.07.03-15.48.13:561][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.07.03-15.48.13:564][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.07.03-15.48.13:584][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.07.03-15.48.13:864][180]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2025.07.03-15.48.14:926][239]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-15.48.14:939][239]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-15.48.34:084][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.48.34:204][369]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.48.34:205][369]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerA80C00C546F0A22BF42D3FA58C4DBA06.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.48.34:218][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 30.5 sec)
+[2025.07.03-15.48.34:221][369]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.48.34:221][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.48.38:125][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.48.38:267][598]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.48.38:268][598]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerB7A393AD4A918EB561412D9ED81C9703.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.48.38:284][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 30.6 sec)
+[2025.07.03-15.48.38:290][598]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.48.38:290][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.48.41:658][800]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-15.48.41:701][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.07.03-15.48.44:358][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-15.48.44:532][948]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-15.48.44:533][948]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower0046C2624C81E7D193157BBACB4A1B6C.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-15.48.44:549][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 30.8 sec)
+[2025.07.03-15.48.44:550][948]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-15.48.44:550][948]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-15.50.23:013][549]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-15.50.23:028][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-15.50.23:028][549]PIE: New page: PIE session: AlienTower (3 lug 2025, 19:50:23)
+[2025.07.03-15.50.23:032][549]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.50.23:053][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020350s)
+[2025.07.03-15.50.23:053][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.020417s)
+[2025.07.03-15.50.23:076][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.07.03-15.50.23:079][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-15.50.23:081][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-15.50.23:081][549]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-15.50.23:082][549]LogPlayLevel: PIE: World Init took: (0.001952s)
+[2025.07.03-15.50.23:082][549]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2025.07.03-15.50.23:082][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-15.50.23:082][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-15.50.23:082][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-15.50.23:082][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-15.50.23:082][549]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-15.50.23:082][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-15.50.23:082][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-15.50.23:082][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-15.50.23:083][549]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-15.50.23:083][549]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-15.50.23:083][549]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-15.50.23:086][549]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-15.50.23:173][549]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-15.50.23:173][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-15.50.23:174][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-15.50.23:174][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-15.50.23:174][549]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2025.07.03-15.50.23:174][549]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2025.07.03-15.50.23:178][549]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2025.07.03-15.50.23:178][549]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2025.07.03-15.50.23:178][549]LogInit: FAudioDevice initialized with ID 71.
+[2025.07.03-15.50.23:178][549]LogAudio: Display: Audio Device (ID: 71) registered with world 'AlienTower'.
+[2025.07.03-15.50.23:178][549]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2025.07.03-15.50.23:181][549]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-15.50.23:195][549]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-17.50.23
+[2025.07.03-15.50.23:196][549]LogWorld: Bringing up level for play took: 0.013815
+[2025.07.03-15.50.23:199][549]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2025.07.03-15.50.23:250][549]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-15.50.23:250][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.50.23:251][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-15.50.23:252][549]PIE: Server logged in
+[2025.07.03-15.50.23:253][549]PIE: Play in editor total start time 0,226 seconds.
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.32:782][116]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.07.03-15.50.32:782][116]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.32:782][116]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-15.50.36:832][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.50.36:832][357]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-15.50.36:833][357]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-15.50.36:836][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.50.36:878][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-15.50.36:885][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-15.50.36:906][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.03-15.50.36:906][357]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2025.07.03-15.50.36:906][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.07.03-15.50.36:909][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.07.03-15.50.36:919][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-15.50.36:929][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.07.03-15.50.37:207][358]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2025.07.03-16.04.03:405][877]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.04.03:418][877]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.06.04:490][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.06.04:515][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.06.04:553][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.06.08:563][721]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Fab/Beholder__Heroes_of_Might_and_Magic®_3__Revamp/aiStandard3.aiStandard3
+[2025.07.03-16.06.08:681][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.06.08:682][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.06.09:109][721]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.03-16.06.09:109][721]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-16.06.09:109][721]MaterialEditorStats: Shader Count: 0
+[2025.07.03-16.06.09:122][721]LogViewport: Scene viewport resized to 582x220, mode Windowed.
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: ================================================
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Total job queries 1.301, among them cache hits 421 (32.36%)
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Tracking 880 distinct input hashes that result in 481 distinct outputs (54.66%)
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: RAM used: 21,99 MiB of 819,20 MiB budget. Usage: 2.68%
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Shaders Compiled: 452
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Jobs assigned 452, completed 452 (100%)
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Average time worker was idle: 588.68 s
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Time job spent in pending queue: average 8.79 s, longest 26.13 s
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Job execution time: average 3.90 s, max 7.08 s
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Job life time (pending + execution): average 12.69 s, max 26.71
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Shader code size: average 46,7 KiB, min 3,324 KiB, max 74,742 KiB
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.57 s
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Jobs were issued in 155 batches (only local compilation was used), average 2.92 jobs/batch
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Average processing rate: 11.14 jobs/sec
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Total thread time: 241,892 s
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Total thread preprocess time: 17,29 s
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Percentage time preprocessing: 7.15%
+[2025.07.03-16.06.09:219][722]LogShaderCompilers: Display: Effective parallelization: 5.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   30 times, average 0.89 sec, max 1.10 sec, min 0.53 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   30 times, average 0.85 sec, max 1.02 sec, min 0.72 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   12 times, average 0.81 sec, max 1.04 sec, min 0.54 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   44 times, average 0.65 sec, max 1.21 sec, min 0.37 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.47% of total time (compiled   57 times, average 0.53 sec, max 0.82 sec, min 0.25 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.78% of total time (compiled   44 times, average 0.65 sec, max 1.21 sec, min 0.37 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.75% of total time (compiled   56 times, average 0.51 sec, max 0.74 sec, min 0.31 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.01% of total time (compiled   30 times, average 0.89 sec, max 1.10 sec, min 0.53 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.58% of total time (compiled   30 times, average 0.85 sec, max 1.02 sec, min 0.72 sec)
+[2025.07.03-16.06.09:220][722]LogShaderCompilers: Display: ================================================
+[2025.07.03-16.06.09:306][723]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.07.03-16.06.09:306][723]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.07.03-16.06.09:306][723]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.03-16.06.09:306][723]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-16.06.09:306][723]MaterialEditorStats: Shader Count: 5
+[2025.07.03-16.06.31:008][949]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.03-16.06.31:038][949]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.03-16.06.31:038][949]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-16.06.31:040][949]MaterialEditorStats: Shader Count: 0
+[2025.07.03-16.06.31:092][950]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.07.03-16.06.31:092][950]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.07.03-16.06.31:092][950]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.03-16.06.31:092][950]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-16.06.31:092][950]MaterialEditorStats: Shader Count: 5
+[2025.07.03-16.06.37:871][325]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.03-16.06.37:897][325]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.03-16.06.37:897][325]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-16.06.37:897][325]MaterialEditorStats: Shader Count: 0
+[2025.07.03-16.06.37:910][326]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.07.03-16.06.37:910][326]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.07.03-16.06.37:910][326]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.03-16.06.37:910][326]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-16.06.37:910][326]MaterialEditorStats: Shader Count: 5
+[2025.07.03-16.06.43:046][607]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.03-16.06.43:072][607]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.03-16.06.43:072][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-16.06.43:072][607]MaterialEditorStats: Shader Count: 0
+[2025.07.03-16.06.43:132][608]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.07.03-16.06.43:132][608]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.07.03-16.06.43:132][608]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.03-16.06.43:132][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.03-16.06.43:132][608]MaterialEditorStats: Shader Count: 5
+[2025.07.03-16.25.57:590][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-16.25.57:600][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-16.25.57:600][524]PIE: New page: PIE session: AlienTower (3 lug 2025, 20:25:57)
+[2025.07.03-16.25.57:605][524]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.25.57:620][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015374s)
+[2025.07.03-16.25.57:620][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.015434s)
+[2025.07.03-16.25.57:640][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.07.03-16.25.57:642][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.25.57:642][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.25.57:643][524]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-16.25.57:643][524]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2025.07.03-16.25.57:643][524]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2025.07.03-16.25.57:643][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-16.25.57:643][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-16.25.57:643][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-16.25.57:643][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-16.25.57:643][524]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-16.25.57:644][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-16.25.57:644][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-16.25.57:644][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-16.25.57:644][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-16.25.57:644][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-16.25.57:644][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-16.25.57:646][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-16.25.57:710][524]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-16.25.57:710][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-16.25.57:710][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-16.25.57:710][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-16.25.57:711][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2025.07.03-16.25.57:711][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2025.07.03-16.25.57:713][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2025.07.03-16.25.57:713][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2025.07.03-16.25.57:713][524]LogInit: FAudioDevice initialized with ID 72.
+[2025.07.03-16.25.57:713][524]LogAudio: Display: Audio Device (ID: 72) registered with world 'AlienTower'.
+[2025.07.03-16.25.57:713][524]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2025.07.03-16.25.57:716][524]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-16.25.57:726][524]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-18.25.57
+[2025.07.03-16.25.57:727][524]LogWorld: Bringing up level for play took: 0.009955
+[2025.07.03-16.25.57:730][524]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2025.07.03-16.25.57:759][524]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-16.25.57:760][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.25.57:760][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.25.57:761][524]PIE: Server logged in
+[2025.07.03-16.25.57:762][524]PIE: Play in editor total start time 0,163 seconds.
+[2025.07.03-16.26.08:461][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.08:462][164]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.07.03-16.26.08:462][164]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.08:462][164]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.26.11:691][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.26.11:691][356]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.26.11:692][356]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-16.26.11:694][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.26.11:699][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-16.26.11:704][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.26.11:716][356]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.03-16.26.11:717][356]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 72
+[2025.07.03-16.26.11:717][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.07.03-16.26.11:720][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.07.03-16.26.11:726][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.26.11:733][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.07.03-16.26.11:929][357]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2025.07.03-16.26.13:369][435]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.26.13:375][435]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.26.38:641][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.26.38:757][937]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-16.26.38:758][937]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerEC428A064E3CC15666C0D3A1D7C7DE7C.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-16.26.38:770][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 31.0 sec)
+[2025.07.03-16.26.38:772][937]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-16.26.38:772][937]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-16.26.45:936][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.26.46:051][360]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-16.26.46:052][360]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerDCA0A3E741C08AE328DCC7B9D790347E.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-16.26.46:063][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 31.1 sec)
+[2025.07.03-16.26.46:065][360]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-16.26.46:065][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-16.26.46:639][395]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-16.26.46:676][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.07.03-16.27.12:854][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.27.12:948][923]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-16.27.12:948][923]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower8AEF19D34B3FA5A3795BFA8B53045989.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-16.27.12:960][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 31.2 sec)
+[2025.07.03-16.27.12:962][923]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-16.27.12:962][923]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-16.27.15:718][ 82]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-16.27.15:752][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.07.03-16.27.17:488][181]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-16.27.17:498][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-16.27.17:498][181]PIE: New page: PIE session: AlienTower (3 lug 2025, 20:27:17)
+[2025.07.03-16.27.17:502][181]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.27.17:515][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013122s)
+[2025.07.03-16.27.17:515][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.013172s)
+[2025.07.03-16.27.17:531][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.07.03-16.27.17:533][181]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.27.17:533][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.27.17:534][181]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-16.27.17:534][181]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2025.07.03-16.27.17:534][181]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2025.07.03-16.27.17:534][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-16.27.17:534][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-16.27.17:534][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-16.27.17:534][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-16.27.17:534][181]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-16.27.17:534][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-16.27.17:534][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-16.27.17:534][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-16.27.17:535][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-16.27.17:535][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-16.27.17:535][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-16.27.17:537][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-16.27.17:606][181]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-16.27.17:606][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-16.27.17:606][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-16.27.17:606][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-16.27.17:607][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2025.07.03-16.27.17:607][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2025.07.03-16.27.17:609][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2025.07.03-16.27.17:609][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2025.07.03-16.27.17:609][181]LogInit: FAudioDevice initialized with ID 73.
+[2025.07.03-16.27.17:609][181]LogAudio: Display: Audio Device (ID: 73) registered with world 'AlienTower'.
+[2025.07.03-16.27.17:609][181]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2025.07.03-16.27.17:611][181]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-16.27.17:620][181]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-18.27.17
+[2025.07.03-16.27.17:620][181]LogWorld: Bringing up level for play took: 0.008728
+[2025.07.03-16.27.17:622][181]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2025.07.03-16.27.17:652][181]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-16.27.17:652][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.27.17:653][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.27.17:654][181]PIE: Server logged in
+[2025.07.03-16.27.17:654][181]PIE: Play in editor total start time 0,156 seconds.
+[2025.07.03-16.27.26:014][681]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.27.26:014][681]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.27.26:014][681]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.27.26:015][681]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.27.26:015][681]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.27.26:015][681]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.27.26:015][681]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.07.03-16.27.26:015][681]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.07.03-16.27.28:191][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.27.28:191][809]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.27.28:192][809]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-16.27.28:194][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.27.28:228][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-16.27.28:233][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.27.28:250][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.03-16.27.28:250][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2025.07.03-16.27.28:250][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.07.03-16.27.28:252][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.07.03-16.27.28:260][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.27.28:268][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.07.03-16.27.28:474][810]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2025.07.03-16.27.29:885][888]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.27.29:894][888]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.33.57:441][706]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-16.33.57:481][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.07.03-16.34.03:091][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-16.34.03:103][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-16.34.03:103][ 30]PIE: New page: PIE session: AlienTower (3 lug 2025, 20:34:03)
+[2025.07.03-16.34.03:107][ 30]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.34.03:121][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014848s)
+[2025.07.03-16.34.03:121][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.014895s)
+[2025.07.03-16.34.03:135][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.07.03-16.34.03:138][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.34.03:139][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.34.03:139][ 30]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-16.34.03:139][ 30]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2025.07.03-16.34.03:139][ 30]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2025.07.03-16.34.03:139][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-16.34.03:139][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-16.34.03:139][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-16.34.03:139][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-16.34.03:139][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-16.34.03:139][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-16.34.03:139][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-16.34.03:141][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-16.34.03:141][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-16.34.03:141][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-16.34.03:141][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-16.34.03:143][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-16.34.03:218][ 30]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-16.34.03:218][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-16.34.03:218][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-16.34.03:218][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-16.34.03:219][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2025.07.03-16.34.03:219][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=74
+[2025.07.03-16.34.03:220][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2025.07.03-16.34.03:220][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2025.07.03-16.34.03:220][ 30]LogInit: FAudioDevice initialized with ID 74.
+[2025.07.03-16.34.03:220][ 30]LogAudio: Display: Audio Device (ID: 74) registered with world 'AlienTower'.
+[2025.07.03-16.34.03:220][ 30]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 74
+[2025.07.03-16.34.03:227][ 30]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-16.34.03:236][ 30]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-18.34.03
+[2025.07.03-16.34.03:237][ 30]LogWorld: Bringing up level for play took: 0.009442
+[2025.07.03-16.34.03:240][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2025.07.03-16.34.03:270][ 30]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-16.34.03:270][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.34.03:271][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.34.03:272][ 30]PIE: Server logged in
+[2025.07.03-16.34.03:273][ 30]PIE: Play in editor total start time 0,171 seconds.
+[2025.07.03-16.34.15:856][783]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.34.15:856][783]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.34.15:856][783]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.34.15:856][783]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.34.15:856][783]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.34.15:856][783]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.34.53:613][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.34.53:613][999]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.34.53:615][999]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-16.34.53:617][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.34.53:655][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-16.34.53:660][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.34.53:674][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.03-16.34.53:674][999]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 74
+[2025.07.03-16.34.53:674][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2025.07.03-16.34.53:677][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2025.07.03-16.34.53:684][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.34.53:694][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.07.03-16.34.54:021][  0]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2025.07.03-16.34.55:452][ 82]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.34.55:464][ 82]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.35.29:575][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.35.29:720][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.07.03-16.35.29:823][107]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-16.35.29:824][107]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTower5848FB9B427090BEDCF8A7BAEF607F97.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-16.35.29:838][107]LogFileHelpers: Saving map 'AlienTower' took 0.173
+[2025.07.03-16.35.29:849][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 31.5 sec)
+[2025.07.03-16.35.29:851][107]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-16.35.29:851][107]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-16.35.32:001][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.35.32:126][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.07.03-16.35.32:209][236]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-16.35.32:209][236]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTower961CD34243DE96E179CB888D5B0342DC.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-16.35.32:218][236]LogFileHelpers: Saving map 'AlienTower' took 0.138
+[2025.07.03-16.35.32:230][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 31.7 sec)
+[2025.07.03-16.35.32:232][236]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-16.35.32:232][236]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-16.35.34:063][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.35.34:181][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.07.03-16.35.34:264][346]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-16.35.34:265][346]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTower9BAB830141C84106D3AD7BBFB194F1C5.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-16.35.34:274][346]LogFileHelpers: Saving map 'AlienTower' took 0.139
+[2025.07.03-16.35.34:286][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 31.9 sec)
+[2025.07.03-16.35.34:288][346]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-16.35.34:288][346]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-16.35.36:470][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.35.36:583][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.07.03-16.35.36:671][476]LogSavePackage: Moving output files for package: /Game/Level/AlienTower
+[2025.07.03-16.35.36:672][476]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/AlienTowerFCEAF8FD4480B68B10C3C2943286E22E.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Level/AlienTower.umap'
+[2025.07.03-16.35.36:681][476]LogFileHelpers: Saving map 'AlienTower' took 0.142
+[2025.07.03-16.35.36:691][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 32.1 sec)
+[2025.07.03-16.35.36:694][476]AssetCheck: New page: Asset Save: AlienTower
+[2025.07.03-16.35.36:694][476]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/AlienTower.AlienTower
+[2025.07.03-16.35.37:611][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-16.35.37:621][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-16.35.37:621][531]PIE: New page: PIE session: AlienTower (3 lug 2025, 20:35:37)
+[2025.07.03-16.35.37:916][531]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.35.37:932][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016364s)
+[2025.07.03-16.35.37:932][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.016420s)
+[2025.07.03-16.35.37:950][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.07.03-16.35.37:952][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.35.37:952][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.35.37:953][531]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-16.35.37:954][531]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2025.07.03-16.35.37:954][531]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2025.07.03-16.35.37:954][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-16.35.37:954][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-16.35.37:954][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-16.35.37:954][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-16.35.37:954][531]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-16.35.37:954][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-16.35.37:954][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-16.35.37:954][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-16.35.37:954][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-16.35.37:954][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-16.35.37:954][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-16.35.37:957][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-16.35.38:027][531]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-16.35.38:028][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-16.35.38:028][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-16.35.38:028][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-16.35.38:029][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2025.07.03-16.35.38:029][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2025.07.03-16.35.38:030][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2025.07.03-16.35.38:030][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2025.07.03-16.35.38:030][531]LogInit: FAudioDevice initialized with ID 75.
+[2025.07.03-16.35.38:030][531]LogAudio: Display: Audio Device (ID: 75) registered with world 'AlienTower'.
+[2025.07.03-16.35.38:030][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 75
+[2025.07.03-16.35.38:033][531]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-16.35.38:046][531]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-18.35.38
+[2025.07.03-16.35.38:046][531]LogWorld: Bringing up level for play took: 0.012420
+[2025.07.03-16.35.38:048][531]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2025.07.03-16.35.38:083][531]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-16.35.38:083][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.35.38:084][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.35.38:085][531]PIE: Server logged in
+[2025.07.03-16.35.38:086][531]PIE: Play in editor total start time 0,464 seconds.
+[2025.07.03-16.35.49:749][228]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.35.49:749][228]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.35.49:749][228]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.35.49:749][228]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.35.49:749][228]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.35.49:749][228]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.36.06:701][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.36.06:701][241]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.36.06:701][241]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-16.36.06:704][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.36.06:741][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-16.36.06:745][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.36.06:760][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.36.06:761][241]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 75
+[2025.07.03-16.36.06:761][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2025.07.03-16.36.06:764][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2025.07.03-16.36.06:780][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.03-16.36.07:035][242]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2025.07.03-16.36.08:362][315]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.36.08:372][315]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.36.16:106][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.36.16:232][599]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-16.36.16:233][599]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTowerE0CE00144C7EAD12D50DC8AF4053A339.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-16.36.16:248][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 32.3 sec)
+[2025.07.03-16.36.16:249][599]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-16.36.16:249][599]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-16.36.24:577][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-16.36.24:587][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-16.36.24:587][ 85]PIE: New page: PIE session: AlienTower (3 lug 2025, 20:36:24)
+[2025.07.03-16.36.24:591][ 85]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.36.24:608][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017066s)
+[2025.07.03-16.36.24:608][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.017121s)
+[2025.07.03-16.36.24:622][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.07.03-16.36.24:626][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.36.24:626][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.36.24:626][ 85]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-16.36.24:627][ 85]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2025.07.03-16.36.24:627][ 85]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2025.07.03-16.36.24:627][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-16.36.24:627][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-16.36.24:627][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-16.36.24:627][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-16.36.24:627][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-16.36.24:627][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-16.36.24:627][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-16.36.24:627][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-16.36.24:628][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-16.36.24:628][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-16.36.24:628][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-16.36.24:631][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-16.36.24:705][ 85]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-16.36.24:705][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-16.36.24:705][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-16.36.24:705][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-16.36.24:706][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2025.07.03-16.36.24:706][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2025.07.03-16.36.24:709][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2025.07.03-16.36.24:709][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2025.07.03-16.36.24:709][ 85]LogInit: FAudioDevice initialized with ID 76.
+[2025.07.03-16.36.24:709][ 85]LogAudio: Display: Audio Device (ID: 76) registered with world 'AlienTower'.
+[2025.07.03-16.36.24:709][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 76
+[2025.07.03-16.36.24:712][ 85]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-16.36.24:721][ 85]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-18.36.24
+[2025.07.03-16.36.24:722][ 85]LogWorld: Bringing up level for play took: 0.009956
+[2025.07.03-16.36.24:725][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2025.07.03-16.36.24:756][ 85]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-16.36.24:757][ 85]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.36.24:757][ 85]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.36.24:758][ 85]PIE: Server logged in
+[2025.07.03-16.36.24:759][ 85]PIE: Play in editor total start time 0,171 seconds.
+[2025.07.03-16.36.27:161][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.36.27:161][224]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.36.27:162][224]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-16.36.27:164][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.36.27:196][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-16.36.27:200][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.36.27:211][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.36.27:213][224]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 76
+[2025.07.03-16.36.27:213][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2025.07.03-16.36.27:215][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2025.07.03-16.36.27:233][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.07.03-16.36.27:528][225]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2025.07.03-16.36.28:381][270]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.36.28:393][270]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.36.52:597][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.36.52:685][697]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-16.36.52:686][697]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower5F25B21841738197B1F03CA0CDC235A1.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-16.36.52:695][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 32.4 sec)
+[2025.07.03-16.36.52:696][697]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-16.36.52:696][697]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-16.36.54:391][799]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-16.36.54:406][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-16.36.54:406][799]PIE: New page: PIE session: AlienTower (3 lug 2025, 20:36:54)
+[2025.07.03-16.36.54:408][799]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.36.54:428][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018683s)
+[2025.07.03-16.36.54:428][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.018737s)
+[2025.07.03-16.36.54:443][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.07.03-16.36.54:446][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.36.54:446][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.36.54:446][799]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-16.36.54:447][799]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2025.07.03-16.36.54:447][799]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2025.07.03-16.36.54:447][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-16.36.54:447][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-16.36.54:447][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-16.36.54:447][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-16.36.54:447][799]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-16.36.54:447][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-16.36.54:447][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-16.36.54:447][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-16.36.54:448][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-16.36.54:448][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-16.36.54:448][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-16.36.54:450][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-16.36.54:518][799]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-16.36.54:518][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-16.36.54:519][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-16.36.54:519][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-16.36.54:519][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2025.07.03-16.36.54:519][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2025.07.03-16.36.54:522][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2025.07.03-16.36.54:522][799]LogInit: FAudioDevice initialized with ID 77.
+[2025.07.03-16.36.54:522][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2025.07.03-16.36.54:522][799]LogAudio: Display: Audio Device (ID: 77) registered with world 'AlienTower'.
+[2025.07.03-16.36.54:522][799]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2025.07.03-16.36.54:525][799]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-16.36.54:534][799]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-18.36.54
+[2025.07.03-16.36.54:535][799]LogWorld: Bringing up level for play took: 0.009913
+[2025.07.03-16.36.54:537][799]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2025.07.03-16.36.54:570][799]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-16.36.54:571][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.36.54:571][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.36.54:572][799]PIE: Server logged in
+[2025.07.03-16.36.54:573][799]PIE: Play in editor total start time 0,168 seconds.
+[2025.07.03-16.37.06:407][505]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.06:407][505]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.06:407][505]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.06:407][505]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.06:407][505]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.06:407][505]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.09:643][699]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.09:643][699]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.09:643][699]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.09:643][699]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.09:643][699]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.09:643][699]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.15:981][ 79]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.15:981][ 79]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.15:981][ 79]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.15:981][ 79]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.15:981][ 79]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.15:982][ 79]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.16:581][115]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.16:581][115]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.16:581][115]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.16:581][115]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.16:581][115]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.16:581][115]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.17:514][171]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.17:514][171]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.17:514][171]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.17:514][171]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.17:514][171]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.17:514][171]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.21:558][413]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.21:558][413]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.21:558][413]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.21:558][413]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.21:558][413]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.21:558][413]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.22:207][452]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.22:207][452]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.22:207][452]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.22:207][452]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.22:207][452]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.22:207][452]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.22:207][452]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.22:207][452]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.23:358][521]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.23:624][537]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.25:008][620]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:976][678]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.25:976][678]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:976][678]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.25:976][678]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:976][678]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.37.25:976][678]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.25:976][678]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.26:047][682]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.26:047][682]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.26:047][682]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.26:047][682]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.37.26:047][682]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] Failed
+[2025.07.03-16.37.27:781][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.37.27:781][783]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.37.27:782][783]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-16.37.27:784][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.37.27:821][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-16.37.27:828][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.37.27:844][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.37.27:845][783]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2025.07.03-16.37.27:845][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2025.07.03-16.37.27:847][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2025.07.03-16.37.27:866][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.07.03-16.37.28:110][784]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2025.07.03-16.37.29:289][848]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.37.29:302][848]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.37.50:114][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.37.50:247][ 41]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-16.37.50:248][ 41]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower33D9557F4347A35E009D4BBDCBEC9A97.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-16.37.50:260][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 32.5 sec)
+[2025.07.03-16.37.50:262][ 41]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-16.37.50:262][ 41]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-16.37.50:544][ 55]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-16.37.50:582][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.07.03-16.37.57:160][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-16.37.57:172][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-16.37.57:172][444]PIE: New page: PIE session: AlienTower (3 lug 2025, 20:37:57)
+[2025.07.03-16.37.57:176][444]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.37.57:191][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015101s)
+[2025.07.03-16.37.57:191][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.015150s)
+[2025.07.03-16.37.57:206][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.07.03-16.37.57:210][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.37.57:210][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.37.57:210][444]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-16.37.57:211][444]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2025.07.03-16.37.57:211][444]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2025.07.03-16.37.57:211][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-16.37.57:211][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-16.37.57:211][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-16.37.57:211][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-16.37.57:211][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-16.37.57:211][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-16.37.57:211][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-16.37.57:211][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-16.37.57:211][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-16.37.57:211][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-16.37.57:211][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-16.37.57:214][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-16.37.57:285][444]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-16.37.57:286][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-16.37.57:286][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-16.37.57:286][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-16.37.57:287][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2025.07.03-16.37.57:287][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2025.07.03-16.37.57:288][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2025.07.03-16.37.57:288][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2025.07.03-16.37.57:288][444]LogInit: FAudioDevice initialized with ID 78.
+[2025.07.03-16.37.57:288][444]LogAudio: Display: Audio Device (ID: 78) registered with world 'AlienTower'.
+[2025.07.03-16.37.57:288][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2025.07.03-16.37.57:292][444]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-16.37.57:301][444]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-18.37.57
+[2025.07.03-16.37.57:301][444]LogWorld: Bringing up level for play took: 0.009458
+[2025.07.03-16.37.57:304][444]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2025.07.03-16.37.57:335][444]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-16.37.57:336][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.37.57:336][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.37.57:337][444]PIE: Server logged in
+[2025.07.03-16.37.57:338][444]PIE: Play in editor total start time 0,165 seconds.
+[2025.07.03-16.38.06:565][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.38.06:565][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.38.06:566][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.38.06:566][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.38.06:566][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.38.06:566][995]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.38.33:041][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.38.33:041][580]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.38.33:042][580]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-16.38.33:047][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.38.33:095][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-16.38.33:100][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.38.33:114][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.03-16.38.33:114][580]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2025.07.03-16.38.33:114][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2025.07.03-16.38.33:117][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2025.07.03-16.38.33:128][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.38.33:137][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.07.03-16.38.33:407][581]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2025.07.03-16.38.34:322][630]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.38.34:332][630]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.38.52:300][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.38.52:428][658]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-16.38.52:430][658]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower0975782548C7563A32A8F99EC7D7D3C1.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-16.38.52:442][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 32.7 sec)
+[2025.07.03-16.38.52:442][658]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-16.38.52:442][658]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-16.38.54:763][794]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-16.38.54:801][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.07.03-16.39.04:174][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.03-16.39.04:297][323]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_TriggerTower
+[2025.07.03-16.39.04:297][323]LogSavePackage: Moving '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Saved/BP_TriggerTower9037B0AD4EA6B120A840518F18FE9A17.tmp' to '../../../../../../Users/alber/OneDrive/Desktop/Programmazione/Unreal Project/Progetto-6-Mesi/Gamelab6Mesi/Content/Blueprint/Object/BP_TriggerTower.uasset'
+[2025.07.03-16.39.04:309][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 32.8 sec)
+[2025.07.03-16.39.04:310][323]AssetCheck: New page: Asset Save: BP_TriggerTower
+[2025.07.03-16.39.04:310][323]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_TriggerTower.BP_TriggerTower
+[2025.07.03-16.39.07:763][517]BlueprintLog: New page: Compile BP_TriggerTower
+[2025.07.03-16.39.07:804][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.07.03-16.39.09:091][588]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.03-16.39.09:102][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.03-16.39.09:102][588]PIE: New page: PIE session: AlienTower (3 lug 2025, 20:39:09)
+[2025.07.03-16.39.09:107][588]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.39.09:124][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015611s)
+[2025.07.03-16.39.09:124][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/AlienTower.AlienTower to /Game/Level/UEDPIE_0_AlienTower.AlienTower (0.015664s)
+[2025.07.03-16.39.09:140][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.07.03-16.39.09:143][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.03-16.39.09:143][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.03-16.39.09:144][588]LogAIModule: Creating AISystem for world AlienTower
+[2025.07.03-16.39.09:144][588]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2025.07.03-16.39.09:144][588]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2025.07.03-16.39.09:144][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.03-16.39.09:144][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.03-16.39.09:144][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.03-16.39.09:144][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.03-16.39.09:144][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.03-16.39.09:144][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.03-16.39.09:144][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.03-16.39.09:144][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.03-16.39.09:145][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.03-16.39.09:145][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.03-16.39.09:145][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.03-16.39.09:147][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.03-16.39.09:228][588]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.07.03-16.39.09:229][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.03-16.39.09:229][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.03-16.39.09:229][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.03-16.39.09:229][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2025.07.03-16.39.09:229][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2025.07.03-16.39.09:232][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2025.07.03-16.39.09:232][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2025.07.03-16.39.09:232][588]LogInit: FAudioDevice initialized with ID 79.
+[2025.07.03-16.39.09:232][588]LogAudio: Display: Audio Device (ID: 79) registered with world 'AlienTower'.
+[2025.07.03-16.39.09:232][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2025.07.03-16.39.09:235][588]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.07.03-16.39.09:244][588]LogWorld: Bringing World /Game/Level/UEDPIE_0_AlienTower.AlienTower up for play (max tick rate 60) at 2025.07.03-18.39.09
+[2025.07.03-16.39.09:245][588]LogWorld: Bringing up level for play took: 0.009768
+[2025.07.03-16.39.09:248][588]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2025.07.03-16.39.09:282][588]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.07.03-16.39.09:282][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.39.09:283][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentGun". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph New Widget Blueprint Blueprint:  WB_GameUI
+[2025.07.03-16.39.09:283][588]PIE: Server logged in
+[2025.07.03-16.39.09:285][588]PIE: Play in editor total start time 0,182 seconds.
+[2025.07.03-16.39.19:727][211]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.39.19:727][211]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 0
+[2025.07.03-16.39.19:727][211]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.39.19:727][211]LogBlueprintUserMessages: [BP_EnemyPoolerComponent] 20
+[2025.07.03-16.39.24:960][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.39.24:960][523]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_AlienTower
+[2025.07.03-16.39.24:962][523]LogWorld: UWorld::CleanupWorld for AlienTower, bSessionEnded=true, bCleanupResources=true
+[2025.07.03-16.39.24:963][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.39.25:003][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.03-16.39.25:007][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.03-16.39.25:020][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.03-16.39.25:021][523]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2025.07.03-16.39.25:021][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2025.07.03-16.39.25:023][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2025.07.03-16.39.25:041][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.03-16.39.25:278][524]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2025.07.03-16.39.26:641][599]LogSlate: Window 'Message Log' being destroyed
+[2025.07.03-16.39.26:651][599]LogSlate: Window 'Message Log' being destroyed
